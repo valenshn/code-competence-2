@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC100_VerifyAddUserSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b88c87ba-6a0c-4b68-aba2-7760a66fbeb6</testCaseGuid>
+</TestCaseEntity>

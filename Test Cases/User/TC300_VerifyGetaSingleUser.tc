@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC300_VerifyGetaSingleUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad83cb8b-19df-4f38-8059-9286d410386c</testCaseGuid>
+</TestCaseEntity>

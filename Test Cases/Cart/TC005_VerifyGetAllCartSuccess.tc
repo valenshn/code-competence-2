@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_VerifyGetAllCartSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5504870-b95c-4d18-b95f-49dbb357a66b</testCaseGuid>
+</TestCaseEntity>
